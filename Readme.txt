@@ -1,13 +1,5 @@
-very shit ddoser that uses a free shitty ddos site
+The script is intended for use with a free DDoS service, which doesn’t have CAPTCHA and can effectively perform DDoS attacks.
 
-also uhh for `"authorization": "Bearer REPLACE WITH KEY TO TOPSTRESSER",`
+To use the "authorization": "Bearer REPLACE WITH KEY TO TOPSTRESSER" section, you’ll need to create an account and obtain an account key. The service is free and can DDoS well.
 
-u gotta make a account and get a key. its free and has no capchas and can ddos pretty well too.
-
-This script was made mainly for booting https://byteus.org offline 
-
-funny silly:
-
-![Image 1](https://raw.githubusercontent.com/FloydTerminal/ByteYou/refs/heads/main/Image/Untitled.png)
-
-![Image 2](https://github.com/FloydTerminal/ByteYou/blob/main/Image/image.png?raw=true)
+This script was primarily designed to target and take down https://byteus.org.
