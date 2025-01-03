@@ -6,10 +6,10 @@ from colorama import Fore, Style, init
 # Initialize colorama for styled text
 init(autoreset=True)
 
-os.system("")
+os.system("") """I forgot i needed this shit for color in cmd lmao"""
 
 def clear_screen():
-    """Clear the console screen."""
+    """Clear cnsole"""
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def print_menu():
@@ -36,7 +36,7 @@ def send_request(target_url, interval):
         "Accept": "*/*",
         "Accept-Language": "en-US,en;q=0.5",
         "Link": "e-tag",
-        "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL3JlZ2lzdGVyIiwiaWF0IjoxNzM1OTMyNDc2LCJleHAiOjE3MzY1MzcyNzYsIm5iZiI6MTczNTkzMjQ3NiwianRpIjoiTHlCSTdFODFpWjc4TmZpdSIsInN1YiI6IjI2MjgiLCJwcnYiOiJmNjRkNDhhNmNlYzdiZGZhN2ZiZjg5OTQ1NGI0ODhiM2U0NjI1MjBhIn0.fTDOXUbkNSUwLh0Po4pqPn8BZq-WYDhqetBLsfn6hfU",
+        "authorization": "Bearer REPLACE WITH KEY TO TOPSTRESSER",
         "Content-Type": "text/plain;charset=UTF-8",
         "Alt-Used": "www.topstresser.su",
         "Sec-Fetch-Dest": "empty",
